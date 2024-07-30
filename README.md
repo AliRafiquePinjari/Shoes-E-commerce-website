@@ -33,9 +33,9 @@ Make sure you have the following installed on your local machine:
 
 1. Clone the repo
 
-```sh
+```
 git clone# Pullshoes
-
+```
 Pullshoes is a modern and stylish online shoe store. Our website offers a wide range of shoes for men, including running shoes, sports shoes, and racing boots. With an emphasis on quality, comfort, and performance, our collection is designed to meet the needs of athletes and fashion enthusiasts alike.
 
 ## Features
@@ -69,7 +69,7 @@ Make sure you have the following installed on your local machine:
 
  Clone the repo
 
-```sh
+
 git clone https://github.com/AliRafiquePinjari/Shoes-E-commerce-website
 
 Open the index.html file in your preferred web browser to view the site.
@@ -77,7 +77,15 @@ Open the index.html file in your preferred web browser to view the site.
 Usage
 Navigate through the site using the navbar to explore different sections. You can view detailed information about each shoe and read customer testimonials. Use the contact form to send us a message if you have any inquiries.
 
-Screenshots
+![image](https://github.com/user-attachments/assets/9f75a4c3-d239-403b-b4dd-77cbe6da6f80)
+
+![image](https://github.com/user-attachments/assets/d71631d1-04d2-435a-8dd6-39e07bbdb5d8)
+
+![image](https://github.com/user-attachments/assets/66aff235-1443-4722-8abb-021c89777781)
+
+![image](https://github.com/user-attachments/assets/5538089c-a138-4e57-abb3-6b1dbeac99fe)
+
+![image](https://github.com/user-attachments/assets/6c2ccd54-831e-4e79-9081-c18d2bb7e33e)
 
 
 Contributing
