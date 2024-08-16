@@ -1,4 +1,5 @@
 # Shoe E-Commerce website
+# Project Link:  https://alirafiquepinjari.github.io/Shoes-E-commerce-website/
 
 Pullshoes is a modern and stylish online shoe store. Our website offers a wide range of shoes for men, including running shoes, sports shoes, and racing boots. With an emphasis on quality, comfort, and performance, our collection is designed to meet the needs of athletes and fashion enthusiasts alike.
 
@@ -104,6 +105,6 @@ Contact
  Name - Ali Pinjari  email-id: work.ali@gmail.com
  LinkedIn - https://www.linkedin.com/in/ali2pinjari/
 
-Project Link: https://github.com/your-username/pullshoes
+
 
 
